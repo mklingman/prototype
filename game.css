@@ -1,8 +1,13 @@
 canvas {
-    border: 1px solid black;
-    background-color: black;
+	border: 1px solid black;
+	background-color: black;
 }
 
 button {
-    cursor: pointer;
+	cursor: pointer;
+}
+
+
+* {
+	background-color: aliceblue;
 }
